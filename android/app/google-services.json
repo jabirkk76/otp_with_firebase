@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347159547923",
+    "project_id": "otp-phone-firebase-e9500",
+    "storage_bucket": "otp-phone-firebase-e9500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347159547923:android:3f79498ec586979e622fe6",
+        "android_client_info": {
+          "package_name": "com.example.assignmentt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347159547923-arm8c8q04uo4pl1kgc8p50gfutpjehkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8jKGsCGarJUwI_x6xbFDYQXqdIUcM9Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347159547923-arm8c8q04uo4pl1kgc8p50gfutpjehkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
