@@ -4,9 +4,7 @@ import 'dart:developer';
 
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/container.dart';
-import 'package:flutter/src/widgets/framework.dart';
-import 'package:phoneotptask/screens/country.dart';
+import 'package:phoneotptask/screens/countrry.dart';
 
 class Mobilenumber extends StatefulWidget {
   const Mobilenumber({super.key});
